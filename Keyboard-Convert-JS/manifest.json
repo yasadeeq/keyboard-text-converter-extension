@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "English-Russian Mac Keyboard Converter",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_title":"English-Russian Mac Keyboard Converter",
+        "default_icon": "images/russ-amer-flags.jpg"
+    },
+    "author": "Matthew Pinerola",
+    "description": "A keyboard converter for when you type in the wrong language. Mac QWERTY English and Mac Phonetic-Russian compatible."
+}
